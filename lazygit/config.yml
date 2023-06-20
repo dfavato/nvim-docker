@@ -1,0 +1,11 @@
+gui:
+  mouseEvents: false
+  showRandomTip: false
+  showIcons: true
+  skipUnstageLineWarning: true
+git:
+  showGraph: 'always'
+  branchLogCmd: 'git log --graph --color=always --abbrev-commit --decorate --oneline {{branchName}}'
+  allBranchesLogCmd: 'git log --graph --color=always --abbrev-commit --decorate --oneline'
+os:
+  editPreset: 'nvim'

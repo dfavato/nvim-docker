@@ -1,0 +1,11 @@
+{
+	"suggest.enablePreselect": true,
+	"suggest.noselect": true,
+	"python.formatting.provider": "darker",
+        "codeLens.enable": true,
+        "codeLens.separator": "🔍",
+        "python.liniting.pylintEnabled": false,
+        "python.liniting.flake8Enabled": true,
+        "python.formatting.provider": "darker",
+        "Lua.widow.statusBar": false
+}
